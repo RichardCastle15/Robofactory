@@ -1,4 +1,7 @@
 # Robofactory
+## File guide
+Robofactory contains the implementation of the answer. Main has simple print line tests. RobofactoryTest contains JUnit4 tests.
+
 ## The question:
 
 Hero owns a factory. There are n robots working at the factory. The robots are numbered 0 through n-1.
